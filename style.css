@@ -1,0 +1,14 @@
+.summary {
+  width: 1024px;
+  margin: auto;
+}
+
+h1 {
+  visibility: hidden;
+  display: none;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto; 
+}
